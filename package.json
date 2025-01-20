@@ -1,0 +1,22 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doub0/SSR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doub0/SSR/issues"
+  },
+  "homepage": "https://github.com/Doub0/SSR#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
